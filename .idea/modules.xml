@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractMethod/AbstractMethod.iml" filepath="$PROJECT_DIR$/AbstractMethod/AbstractMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BehaviourPatterns/BehaviourPatterns.iml" filepath="$PROJECT_DIR$/BehaviourPatterns/BehaviourPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/CreationalPatterns.iml" filepath="$PROJECT_DIR$/CreationalPatterns/CreationalPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FectoryMethod/FectoryMethod.iml" filepath="$PROJECT_DIR$/FectoryMethod/FectoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID/SOLID.iml" filepath="$PROJECT_DIR$/SOLID/SOLID.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/StructuralPatterns.iml" filepath="$PROJECT_DIR$/StructuralPatterns/StructuralPatterns.iml" />
+    </modules>
+  </component>
+</project>
